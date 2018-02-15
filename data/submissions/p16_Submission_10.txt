@@ -1,0 +1,11 @@
+Variant	Proliferation-rate	Standard-Deviation
+G35R	0.642	*
+G35W	0.807	*
+G35E	0.666	*
+G23S	0.738	*
+G23R	0.991	*
+G23C	0.707	*
+G23A	0.700	*
+G23V	0.936	*
+L65P	0.739	*
+L94P	0.913	*
